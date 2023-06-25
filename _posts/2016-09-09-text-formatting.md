@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Libe Slope at Cornell"
+author: "Orbitum"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: libeslope_sunset.jpg
 ---
 
 # Markdown Support
