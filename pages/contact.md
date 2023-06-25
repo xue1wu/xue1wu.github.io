@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
+image: xueyi profile.jpg
 ---
 
 Thank you for your interest in Xueyi Wu's captivating oil paintings. If you have any inquiries, comments, or would like to connect with Xueyi, please feel free to reach out via email.
