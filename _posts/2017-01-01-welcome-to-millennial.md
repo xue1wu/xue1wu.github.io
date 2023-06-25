@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Whispers of Tranquility: Journey through Boboli Garden"
+author: "Orbitum"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: boboligarden.jpg
 ---
