@@ -6,3 +6,4 @@ categories: documentation
 tags: [documentation,sample]
 image: boboligarden.jpg
 ---
+boboli_garden.jpg
