@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Welcome to Orbitum!"
+author: "Orbitum"
 categories: documentation
 tags: [documentation,sample]
 image: boboligarden.jpg
