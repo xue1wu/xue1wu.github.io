@@ -2,8 +2,8 @@
 layout: post
 title: "Cafe Chopin"
 author: "Orbitum"
-categories: facts
-tags: [sample]
+categories: documentation
+tags: [documentation,sample]
 image: cafechopin.jpg
 ---
 
