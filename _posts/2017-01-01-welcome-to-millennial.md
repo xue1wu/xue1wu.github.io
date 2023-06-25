@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Orbitum!"
+title: "Whispers of Tranquility: Journey through Boboli Garden"
 author: "Orbitum"
 categories: documentation
 tags: [documentation,sample]
