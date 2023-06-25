@@ -4,4 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Thank you for your interest in Xueyi Wu's captivating oil paintings. If you have any inquiries, comments, or would like to connect with Xueyi, please feel free to reach out via email.
+
+Email: xw636@cornell.edu
+
+Xueyi values each interaction and appreciates the opportunity to engage with art enthusiasts like yourself. Whether you have questions about a specific painting, would like to inquire about purchasing or commissioning a piece, or simply want to share your thoughts and feedback, she eagerly awaits your message.
