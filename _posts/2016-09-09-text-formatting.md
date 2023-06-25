@@ -2,7 +2,7 @@
 layout: post
 title: "Libe Slope at Cornell"
 author: "Orbitum"
-categories: sample
+categories: documentation
 tags: [documentation,sample]
 image: libeslope_sunset.jpg
 ---
