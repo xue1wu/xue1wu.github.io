@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Duomo"
+author: "Orbitum"
 categories: documentation
 tags: [documentation,sample]
-image: libeslope_sunset.jpg
+image: duomo.jpg
 ---
 
 # Millennial
