@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation,sample]
 image: boboli_garden.jpg
 ---
-After my journey to Florence, Italy, alongside my best friend, I painted this captivating scene that encapsulates my emotions:
+After my journey to Florence, Italy, alongside my best friend, I painted this:
 
 A gentle breeze envelops you, caressing your garments and gently nudging you backward. Amidst the cracks in the floating wall of trees, the soft, sandy sunlight filters in, casting a tranquil ambiance. Though the temperature may not be warm, there lingers a soothing scent of blooming flora in the air.
 
