@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about
-
+image: boboligarden.jpg
 ---
-![image: boboligarden.jpg](https://github.com/xue1wu/xue1wu.github.io/blob/gh-pages/assets/img/boboligarden.jpg)
+
+https://github.com/xue1wu/xue1wu.github.io/blob/gh-pages/assets/img/boboligarden.jpg
 
 Welcome to Xueyi Wu's Oil Paintings Website!
 
