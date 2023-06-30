@@ -4,6 +4,8 @@ title: Interesting Facts
 category: facts
 permalink: /facts
 ---
+![Profile photo](https://github.com/xue1wu/xue1wu.github.io/blob/gh-pages/assets/img/xueyi%20profile.jpg)
+
 
 I am an ENFJ who loves. 
 
