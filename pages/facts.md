@@ -11,7 +11,7 @@ Green is my color of the year 2022.
 
 I speak Mandarin, English, and is learning Italian. 
 
-I studied Math becasue topology and geometry is the most pretty Minimalism art. Beyong this, I dont appreciate most Minimalism. I love how the UNC Math Department has a Louise Bourgeois's Spider outside. 
+I studied Math becasue topology and geometry is the most pretty Minimalism art. Beyong this, I dont appreciate most Minimalism. I love how the UNC Math Department has a Louise Bourgeois's Spider outside.
 
 I love just being slient and thinking for 20 mins before I actually paint. I embrace the version of myself that occasionally detests what I paint(do), yet persists without giving up halfway. 
 
