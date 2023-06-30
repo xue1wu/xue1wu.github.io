@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+image: boboligarden.jpg
 ---
 
 Welcome to Xueyi Wu's Oil Paintings Website!
