@@ -7,10 +7,9 @@ image: boboligarden.jpg
 
 Welcome to Xueyi Wu's Oil Paintings Website!
 
-Step into the world of Xueyi Wu, a passionate artist who uses oil paints as her medium to create captivating works of art. While she may not come from an academic background in painting, Xueyi's artistic journey is driven by her own senses and an unyielding desire to continuously learn and grow.
+Welcome to the world of Xueyi Wu, an artist who creates captivating works with oil paints. While she doesn’t have a formal background in painting, Xueyi's journey is fueled by her passion and a constant desire to learn and grow.
 
-Xueyi has discovered a profound love for the expressive capabilities of oil paints, which enable her to convey textures and emotions in a unique and evocative manner. With each stroke of her brush, she aims to capture the essence of a moment, igniting memories and fostering connections that resonate deeply within the hearts of her viewers.
+Xueyi loves using oil paints for their ability to express textures and emotions in a unique way. With each brushstroke, she aims to capture moments, spark memories, and create connections that resonate with her viewers.
 
-For Xueyi, art is more than just a visual representation—it is a physical repository of feelings that transcends words and comparisons. Through her paintings, she invites you to delve into her world, to explore the emotions she pours onto the canvas, and ultimately, to connect with your own feelings as you engage with her art.
+For Xueyi, art is more than just a visual experience—it’s a way to hold and share feelings that words can't describe. Through her paintings, she invites you to explore the emotions she pours onto the canvas and find your own feelings reflected in her work.
 
-Thank you for visiting Xueyi Wu's Oil Paintings Website. May her art inspire and evoke a myriad of emotions within you.
