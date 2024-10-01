@@ -4,7 +4,7 @@ title: "Libe Slope"
 author: "Orbitum"
 categories: documentation
 tags: [documentation,sample]
-image: IMG_2172.heic
+image: IMG_2172.jpg
 ---
 
 6x8" oil painting on canvas
