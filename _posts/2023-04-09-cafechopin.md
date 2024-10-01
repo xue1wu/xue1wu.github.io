@@ -4,7 +4,7 @@ title: "Cafe Chopin"
 author: "Orbitum"
 categories: documentation
 tags: [documentation,sample]
-image: IMG_2176.heic
+image: IMG_2176.jpg
 ---
 
 10x12" oil painting on canvas
