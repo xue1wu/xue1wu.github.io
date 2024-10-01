@@ -4,7 +4,7 @@ title: "Whispers of Tranquility: Journey through Boboli Garden"
 author: "Orbitum"
 categories: documentation
 tags: [documentation,sample]
-image: boboli_garden.jpg
+image: IMG_2178.heic
 ---
 8x10" oil painting on canvas
 
